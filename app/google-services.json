@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312783159738",
+    "project_id": "mtms-driver-app",
+    "storage_bucket": "mtms-driver-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312783159738:android:66c58daa3803a5f93e9d83",
+        "android_client_info": {
+          "package_name": "com.example.mtmsdriverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312783159738-uhdo2hhbol29t1ovhbvejvo3s9s3rj16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc6SZqP_AV0FvuTV1LgHf0krHHPqnBxF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312783159738-uhdo2hhbol29t1ovhbvejvo3s9s3rj16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
